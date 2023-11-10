@@ -1,0 +1,20 @@
+body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+
+
+
+  input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+
+  .submit{
+    background-color: aliceblue;
+  }
